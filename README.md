@@ -1,1 +1,1 @@
-# LEMONADE_1
+Lemonade is a sweetened lemon flavoured beverage. There are varieties of lemonade found throught the world. 
